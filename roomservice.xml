@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="Mahdi-Rom/android_vendor_lge" path="vendor/lge" remote="github" revision="kk-4.4" />
+  <project name="Mahdi-Rom/android_kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="kk-4.4" />
+  <project name="Mahdi-Rom/android_vendor_asus" path="vendor/asus" remote="github" revision="kk-4.4" />
+  <project name="Mahdi-Rom/android_vendor_broadcom" path="vendor/broadcom" remote="github" revision="kk-4.4" />
+  <project name="Mahdi-Rom/android_vendor_elan" path="vendor/elan" remote="github" revision="kk-4.4" />
+  <project name="Mahdi-Rom/android_vendor_invensense" path="vendor/invensense" remote="github" revision="kk-4.4" />
+  <project name="Mahdi-Rom/android_vendor_nvidia" path="vendor/nvidia" remote="github" revision="kk-4.4" />
+  <project name="Mahdi-Rom/android_vendor_nxp" path="vendor/nxp" remote="github" revision="kk-4.4" />
+  <project name="Mahdi-Rom/android_vendor_widevine" path="vendor/widevine" remote="github" revision="kk-4.4" />
+  <project name="Mahdi-Rom/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="kk-4.4" />
+  <project name="voidz777/android_vendor_samsung_maguro" path="vendor/samsung/maguro" remote="github" revision="master" />
+  <project name="voidz777/android_vendor_broadcom" path="vendor/broadcom/maguro" remote="github" revision="master" />
+  <project name="voidz777/android_vendor_imgtec" path="vendor/imgtec/maguro" remote="github" revision="master" />
+  <project name="voidz777/android_vendor_invensense" path="vendor/invensense/maguro" remote="github" revision="master" />
+  <project name="voidz777/android_vendor_nxp" path="vendor/nxp/maguro" remote="github" revision="master" />
+  <project name="voidz777/android_vendor_widevine" path="vendor/widevine/maguro" remote="github" revision="master" />
+  <project name="voidz777/android_device_samsung_maguro" path="device/samsung/maguro" remote="github" revision="master" />
+  <project name="voidz777/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="master" />
+  <project name="voidz777/android_kernel_samsung_tuna" path="kernel/samsung/tuna" remote="github" revision="master" />
+  <project name="voidz777/android_device_htc_shooterk" path="device/htc/shooterk" remote="github" revision="master" />
+  <project name="voidz777/android_device_htc_msm8660-common" path="device/htc/msm8660-common" remote="github" revision="master" />
+  <project name="voidz777/android_vendor_htc" path="vendor/htc" remote="github" revision="master" />
+  <project name="CyanogenMod/android_external_f2fs-tools" path="external/f2fs-tools" remote="github" revision="cm-11.0" />
+  <project name="voidz777/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" remote="github" revision="master" />
+  <project name="UBERUTILS/arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/sm-arm-eabi-4.7" remote="github" revision="master" />
+  <project name="voidz777/android_kernel_htc_shooter" path="kernel/htc/shooter" remote="github" revision="master" />
+  <project name="UBERUTILS/arm-eabi-4.8" path="prebuilts/gcc/linux-x86/arm/sm-arm-eabi-4.8" remote="github" revision="master" />
+  <project name="voidz777/android_vendor_samsung_skyrocket" path="vendor/samsung/skyrocket" remote="github" revision="master" />
+  <project name="voidz777/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="master" />
+  <project name="voidz777/android_device_samsung_msm8660-common" path="device/samsung/msm8660-common" remote="github" revision="master" />
+  <project name="voidz777/android_device_samsung_celox-common" path="device/samsung/celox-common" remote="github" revision="master" />
+  <project name="voidz777/android_kernel_samsung_msm8660-common" path="kernel/samsung/msm8660-common" remote="github" revision="master" />
+  <project name="voidz777/android_kernel_samsung_wmsm8660" path="kernel/samsung/wmsm8660" remote="github" revision="master" />
+  <project name="voidz777/android_device_samsung_skyrocket" path="device/samsung/skyrocket" remote="github" revision="master" />
+</manifest>
